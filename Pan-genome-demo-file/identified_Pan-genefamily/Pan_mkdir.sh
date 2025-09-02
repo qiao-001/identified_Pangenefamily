@@ -1,0 +1,15 @@
+mkdir	1.database
+mkdir	10.promoter
+mkdir	11.ppi
+mkdir	12.rnaseq
+mkdir	2.hmmsearch
+mkdir	3.blast
+mkdir	4.identification
+mkdir	4.1fastsim
+mkdir	4.2FastaLong
+mkdir   4.3FinallyPep
+mkdir	5.genefamily_info
+mkdir	6.tree
+mkdir	7.motif_genestructure
+mkdir	8.collinearity
+mkdir	9.mcscanx
